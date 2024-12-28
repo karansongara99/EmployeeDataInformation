@@ -1,0 +1,12 @@
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\bin\Debug\EmployeeDataStore.exe.config
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\bin\Debug\EmployeeDataStore.exe
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\bin\Debug\EmployeeDataStore.pdb
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.csproj.AssemblyReference.cache
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.Form1.resources
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.Properties.Resources.resources
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.csproj.GenerateResource.cache
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.exe
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.pdb
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.Employee.resources
+D:\Programer\BTech\Sem-4\.NET\EmployeeDataStore\obj\Debug\EmployeeDataStore.Report.resources
