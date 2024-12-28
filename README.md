@@ -4,3 +4,14 @@
 
 <p>Simple Employee Detail Windows Form App</p>
 
+<h1>Home Screen</h1>
+
+![image](https://github.com/user-attachments/assets/3f5a357b-ca56-4a9a-b818-379896faf953)
+
+<h1>Add Employee Screen</h1>
+
+![image](https://github.com/user-attachments/assets/893acbf2-8d4f-4483-ae18-627006ffe77b)
+
+<h1>Reports Screen Specific ID Search</h1>
+
+![image](https://github.com/user-attachments/assets/d70a9169-25ff-4a97-950f-ebd1bbd69e02)
